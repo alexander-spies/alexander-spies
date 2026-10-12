@@ -1,6 +1,6 @@
 ### Hi, I'm Alex
 
-Senior frontend developer from Saarbrücken. I've been building with Angular for more than twelve years, from `$scope` to signals, and I care about code that is still easy to change a few years later.
+Senior frontend developer from Germany (Saarland). I've been building with Angular for more than twelve years, from `$scope` to signals, and I care about code that is still easy to change a few years later.
 
 Things I spend most of my time on: Angular and signals, component libraries, accessibility and developer experience.
 
