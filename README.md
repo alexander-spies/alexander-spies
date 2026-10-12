@@ -6,7 +6,7 @@ Things I spend most of my time on: Angular and signals, component libraries, acc
 
 ### What I'm working on
 
-**[ng-prism](https://github.com/ng-prism/ng-prism)** is a component showcase for modern Angular, without story files. You put one `@Showcase` decorator on a component, and ng-prism generates live controls,
+**[ng-prism](https://github.com/ng-prism/ng-prism)** is a component showcase tool for modern Angular, without story files. You put one `@Showcase` decorator on a component, and ng-prism generates live controls,
 code snippets and docs from it at build time. Plugins add JSDoc API docs, test coverage, Figma designs, performance numbers and visual regression reports.
 
 [Live demo](https://ng-prism.github.io/ng-prism/demo/?component=ButtonComponent) · [Docs](https://ng-prism.github.io/ng-prism/) · [npm](https://www.npmjs.com/package/@ng-prism/core)
