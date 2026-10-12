@@ -2,7 +2,7 @@
 
 Senior frontend developer from Germany (Saarland). I've been building with Angular for more than twelve years, from `$scope` to signals, and I care about code that is still easy to change a few years later.
 
-Things I spend most of my time on: Angular and signals, component libraries, accessibility and developer experience.
+Things I spend most of my time on: Improving my own skills, component libs, a11y and DX and maintaining ng-prism.
 
 ### What I'm working on
 
