@@ -1,8 +1,10 @@
-### Hi, I'm Alex
+#### Hi, I'm Alex
 
-Senior frontend developer from Germany (Saarland). I've been building with Angular for more than twelve years, from `$scope` to signals, and I care about code that is still easy to change a few years later.
+Senior frontend developer from Germany (Saarland), and a frontend developer through and through. I built my first website at 14, and since then my heart has been with everything that ends up in a browser. I love turning good design into frontends with real UX, and I like questioning the obvious until the better solution shows up.
 
-Things I spend most of my time on: Improving my own skills, component libs, design systems, a11y, DX and maintaining ng-prism.
+I've been building with Angular since the AngularJS days, from `$scope` to signals, and I was a fan from the start. What I care about most: code that is still easy to change a few years later.
+
+Things I spend most of my time on: component libs, design systems, a11y, UX, DX, maintaining ng-prism, and sharpening my own skills along the way.
 
 ### What I'm working on
 
